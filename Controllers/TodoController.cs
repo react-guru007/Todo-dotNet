@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using TodoApp.Data;
 using System.Security.Claims;
 using TodoApp.Dtos;
+using TodoApp.Models;
 
 namespace TodoApp.Controllers
 {

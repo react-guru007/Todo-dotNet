@@ -9,6 +9,7 @@ using TodoApp.Data;
 using TodoApp.Dtos;
 using Xunit;
 using Microsoft.EntityFrameworkCore;
+using TodoApp.Models;
 
 namespace TodoApp.Tests
 {
