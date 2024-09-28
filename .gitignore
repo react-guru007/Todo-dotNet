@@ -1,0 +1,37 @@
+# .NET Core / .NET Framework / ASP.NET Core
+
+## Ignore Visual Studio temporary files, build results, and
+## .NET Core build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.dll
+*.exe
+*.log
+*.user
+*.lock.json
+*.lock
+*.DS_Store
+.vscode/
+.history/
+# Ignore Visual Studio specific folders and files
+.vscode/
+.vs/
+.vscode/*
+!.vscode/settings.json
+.vscode/.*
+.vscode/*.*
+**/.vs/
+.vscode/.idea/
+
+## Ignore Rider and Resharper files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+### Ignore local history with
+.history/
+**/*.code-workspace
+.vscode/**/*.#
+``***
